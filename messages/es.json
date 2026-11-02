@@ -1,0 +1,66 @@
+{
+  "Metadata": {
+    "title": "Ridgeline Bikes | Alquiler de bicicletas urbanas",
+    "description": "Alquila una bicicleta urbana por horas, por días o por semanas."
+  },
+  "Header": {
+    "brand": "Ridgeline Bikes",
+    "mainNav": "Principal",
+    "home": "Inicio",
+    "pricing": "Precios",
+    "about": "Quiénes somos"
+  },
+  "LanguageSwitcher": {
+    "label": "Idioma",
+    "en": "English",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "Footer": {
+    "rights": "© {year} Ridgeline Bikes. Todos los derechos reservados.",
+    "questions": "¿Tienes preguntas? Escríbenos a {email}"
+  },
+  "Home": {
+    "title": "Alquila una bici y descubre la ciudad",
+    "lede": "Bicicletas urbanas y eléctricas por horas, por días o por semanas.",
+    "cta": "Ver precios",
+    "features": {
+      "pickup": {
+        "title": "Recógela en minutos",
+        "body": "Enseña tu reserva en el mostrador y sal pedaleando. Sin papeleo."
+      },
+      "helmet": {
+        "title": "Casco y candado incluidos",
+        "body": "Cada alquiler incluye casco, candado y soporte para el móvil."
+      },
+      "maps": {
+        "title": "Mapas de rutas gratis",
+        "body": "Pídenos nuestro mapa impreso con las mejores rutas junto al río."
+      }
+    }
+  },
+  "Pricing": {
+    "metaTitle": "Precios | Ridgeline Bikes",
+    "title": "Precios sencillos",
+    "lede": "Sin fianza y sin cargos ocultos. Cancela gratis hasta una hora antes.",
+    "book": "Reservar",
+    "plans": {
+      "hourly": { "name": "Por horas", "unit": "por hora", "perks": ["Bicicleta urbana", "Casco y candado"] },
+      "day": { "name": "Bono de un día", "unit": "por día", "perks": ["Bicicleta urbana o eléctrica", "Casco y candado", "Mapa de rutas"] },
+      "week": { "name": "Bono semanal", "unit": "por semana", "perks": ["Bicicleta eléctrica", "Casco y candado", "Reparaciones gratis"] }
+    }
+  },
+  "About": {
+    "metaTitle": "Quiénes somos | Ridgeline Bikes",
+    "title": "Sobre Ridgeline Bikes",
+    "lede": "Somos una pequeña tienda familiar junto al río. Abrimos el {opened}.",
+    "story": {
+      "title": "Nuestra historia",
+      "body": "Empezamos con seis bicis viejas y un garaje. Hoy cuidamos de más de 80 bicicletas."
+    },
+    "visit": {
+      "title": "Ven a vernos",
+      "body": "12 River Street. Abierto todos los días de 8:00 a 19:00."
+    }
+  }
+}
