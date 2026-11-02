@@ -1,0 +1,66 @@
+{
+  "Metadata": {
+    "title": "Ridgeline Bikes | City bike rentals",
+    "description": "Rent a city bike by the hour, the day or the week."
+  },
+  "Header": {
+    "brand": "Ridgeline Bikes",
+    "mainNav": "Main",
+    "home": "Home",
+    "pricing": "Pricing",
+    "about": "About us"
+  },
+  "LanguageSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "Footer": {
+    "rights": "© {year} Ridgeline Bikes. All rights reserved.",
+    "questions": "Questions? Email {email}"
+  },
+  "Home": {
+    "title": "Rent a bike, see the city",
+    "lede": "City bikes and e-bikes by the hour, the day or the week.",
+    "cta": "See prices",
+    "features": {
+      "pickup": {
+        "title": "Pick up in minutes",
+        "body": "Show your booking at the counter and ride away. No paperwork."
+      },
+      "helmet": {
+        "title": "Helmet and lock included",
+        "body": "Every rental comes with a helmet, a lock and a phone mount."
+      },
+      "maps": {
+        "title": "Free route maps",
+        "body": "Ask for our printed map of the best rides along the river."
+      }
+    }
+  },
+  "Pricing": {
+    "metaTitle": "Pricing | Ridgeline Bikes",
+    "title": "Simple prices",
+    "lede": "No deposit and no hidden fees. Cancel for free up to one hour before.",
+    "book": "Book now",
+    "plans": {
+      "hourly": { "name": "Hourly", "unit": "per hour", "perks": ["City bike", "Helmet and lock"] },
+      "day": { "name": "Day pass", "unit": "per day", "perks": ["City bike or e-bike", "Helmet and lock", "Route map"] },
+      "week": { "name": "Week pass", "unit": "per week", "perks": ["E-bike", "Helmet and lock", "Free repairs"] }
+    }
+  },
+  "About": {
+    "metaTitle": "About us | Ridgeline Bikes",
+    "title": "About Ridgeline Bikes",
+    "lede": "We are a small, family-run shop by the river. We opened on {opened}.",
+    "story": {
+      "title": "Our story",
+      "body": "We started with six old bikes and a garage. Today we look after more than 80 bikes."
+    },
+    "visit": {
+      "title": "Visit us",
+      "body": "12 River Street. Open every day from 8 am to 7 pm."
+    }
+  }
+}
